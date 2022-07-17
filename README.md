@@ -1,9 +1,9 @@
 ## Hi there!
 
-### My name is Chris, and I'm a ☕Java, 🐍Python, ©️C developer. 
-### I'm currently broadening my skillset and teaching myself ☕📃Javascript and 💥React! 
+### My name is Chris, and I'm a Java, Python, C# developer. 
+### I'm currently broadening my skillset and teaching myself Javascript and React! 
 
-I'm a recent **Master's** graduate from **Illinois Institute of Technology**, and I'm looking for my first **Software Development** position! 
+I'm a **Developer Associate** at **Northwestern University** and a **Master's** graduate from **Illinois Institute of Technology**, and I'm looking for my first **Software Development** position! 
 
 ## I've taken coursework and worked on projects in:
 
